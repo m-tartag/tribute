@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-size: 1000px;
+    font-style: italic;
+
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+h4 {
+    font-size: 25px;
+    font-style: italic;
+}
+
+#brady {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border:5px solid #021a40
+}
+
+#title2 {
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+
+ 
+}
+
+.stats {
+ 
+  text-align: center;
+  list-style: none;
+  font-size: 20px;
+}
+
+body {
+  background-color: #D3D3D3;
+}
