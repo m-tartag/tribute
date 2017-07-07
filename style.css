@@ -1,50 +1,35 @@
-h1 {
-    text-align: center;
-    font-size: 1000px;
-    font-style: italic;
-
-}
-h2 {
-    text-align: center;
-    font-size: 30px;
-    font-style: italic;
-}
-
-h4 {
-    font-size: 25px;
-    font-style: italic;
+.container {
+  background-color: #9EB4CC;
+  border-style: solid;
+  margin: 15px 15px 15px 15px;
+  padding: 25px 25px 25px 25px;
+  font-family: Tahoma;
 }
 
 #brady {
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: auto;
-    margin-right: auto;
-    border:5px solid #021a40
+    float: none;
+    
+}
+
+
+.list {
+    font-size: 18px;
 }
 
 #title2 {
-  text-align: center;
-  font-size: 40px;
-  font-style: italic;
-  font-weight: bold;
-
- 
+    font-size: 25px;
 }
 
-.stats {
+#title3 {
  
-  text-align: center;
-  list-style: none;
   font-size: 20px;
-  
-} 
-
-body {
-  background-color: #D3D3D3;
-  font-family: "Times New Roman", Georgia, Serif;
-  
 }
+
+#quote {
+    font-size: 18px;
+}
+
+
 
 
 
